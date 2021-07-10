@@ -1,3 +1,5 @@
-# barter-app
+# Barter-app
 
 This is just a personal project and not a proper published app.
+
+# Currently in development
